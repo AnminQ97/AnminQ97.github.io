@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mingyu"
 title_separator          : "^-^"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "An Mingyu"
+name                     : ""
 description              : ""
 url                      : "https://AnminQ97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "An Mingyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "chup hago shipda"
   location         : "Somewhere"
   email            :
   links:
