@@ -1,4 +1,7 @@
 ---
+author_profile: true
+sidebar:
+  nav: "main"
 title:  "local Server 여는 방법"
 excerpt: "gitgub blog"
 
