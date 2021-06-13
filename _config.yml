@@ -280,15 +280,6 @@ defaults:
       comments: true
       share: true
       related: true
-      author_profile: true
       sidebar:
       nav: "main"
       
-  - scope:
-      path: ""
-      type: pases
-    values:
-      author_profile: true
-      sidebar:
-      nav: "main"
-
